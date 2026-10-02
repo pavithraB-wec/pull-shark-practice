@@ -1,2 +1,3 @@
-# pull-shark-practice
- Learning GitHub pull requests
+# Pull Shark Practice
+
+Learning GitHub Pull Requests.
